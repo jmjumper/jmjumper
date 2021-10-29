@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
 </div>
@@ -12,17 +12,11 @@
 to my personal GitHub profile!
 </div>
 
-<h3 align="center">
-<a href="https://cbp.io">Visit my personal homepage
-<img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
-</a>
-</h3>
-
 <hr>
 
 <div align="center">
 <p>Write something nice in my guest book:</p>
-<a href="https://github.com/fnky/fnky/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+<a href="https://github.com/jmjumper/jmjumper/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
 
 <hr>
@@ -36,9 +30,12 @@ to my personal GitHub profile!
 
 <div align="center">
 <p></p>
-<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
+<img src="https://profile-counter.glitch.me/jmjumper/count.svg" alt="hit counter" align="center">
 </div>
 
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
+
+<hr>
+<p>profile readme copied from <a href="https://github.com/fnky">fnky</a></p>
