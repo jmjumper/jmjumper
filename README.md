@@ -10,25 +10,8 @@
 to my personal GitHub profile!
 </div>
 
-<hr>
-
-<div align="center">
-<p>Write something nice in my guest book:</p>
-<a href="https://github.com/jmjumper/jmjumper/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
-</div>
-
-<hr>
-
-<div align="center">
-<p>Have a good day!</p>
 <div>
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
-</div>
-</div>
-
-<div align="center">
-<p></p>
-<img src="https://profile-counter.glitch.me/jmjumper/count.svg" alt="hit counter" align="center">
 </div>
 
 <div align="center">
