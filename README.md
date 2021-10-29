@@ -13,4 +13,3 @@ to my personal GitHub profile!
 <div align="center"><br>
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
 </div>
-<hr>
