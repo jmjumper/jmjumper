@@ -10,7 +10,7 @@
 to my personal GitHub profile!
 </div>
 
-<div>
+<div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
 </div>
 
@@ -18,4 +18,3 @@ to my personal GitHub profile!
 <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
 
-<p align="right">profile readme copied from <a href="https://github.com/fnky">fnky</a></p>
